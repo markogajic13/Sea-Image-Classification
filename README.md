@@ -1,4 +1,4 @@
-# UnderwaterAndAboveSeaImageClassification
+# Sea-Image-Classification
 
 # CNN model
 
