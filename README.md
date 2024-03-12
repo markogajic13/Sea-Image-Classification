@@ -14,7 +14,7 @@ The classification model is constructed using TensorFlow and Keras, with a seque
 ## Evaluation
 The trained model's performance is evaluated using the test dataset to assess its accuracy in classifying unseen images. Additionally, the training and validation accuracy and loss are monitored to ensure the model's generalization capability and prevent overfitting.
 
-# TensorFlow Serving Docker Configuration
+# TensorFlow Serving attained with Docker
 
 ## Overview
 This Dockerfile sets up a TensorFlow Serving environment using the official TensorFlow Serving runtime as the parent image. It copies the pre-trained models (versions 1 and 2) along with a configuration file (`tf.config`) into the container.
